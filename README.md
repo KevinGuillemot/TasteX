@@ -21,7 +21,9 @@ TODO
 
 + Smart Recipe 
 Source: http://pub.tik.ee.ethz.ch/students/2015-FS/BA-2015-15.pdf
+
 Description: Recipe classification from ingredients
+
 Tools: Classification trees, k-means
 
 + The Recipe Learner
