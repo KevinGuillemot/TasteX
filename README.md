@@ -6,20 +6,18 @@ Food Explorer
 ### Recipe/Ingredient database
 - Source: http://s3.amazonaws.com/wikia_xml_dumps/c/co/cookbook_import_pages_current.xml.7z
 - As of: 8/7/2017
-- Version: "2017-05-10 22:40:17"
+- Size archive: 23 MB
+- Size db: 160 MB
 - Format: XML
+- Version: "2017-05-10 22:40:17"
 - Website: http://recipes.wikia.com/wiki/Special:Statistics
 
 
 ### Ingredient/Chemistry database
 TODO
-
-
-
-
-
-
-
+   
+   
+   
 
 ## References
 
