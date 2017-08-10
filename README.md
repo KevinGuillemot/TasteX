@@ -4,7 +4,7 @@ Food Explorer
 ## Datasets:
 
 ### Recipe/Ingredient database
-- Source: 
+- Source: https://www.kaggle.com/hugodarwood/epirecipes/downloads/full_format_recipes.json
 - Link As Of 8/10/2017
 - Size archive: 10.4 MB
 - Size file: 34.4 MB
