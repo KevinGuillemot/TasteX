@@ -29,10 +29,10 @@ TODO
 
 ## References
 
-1. Kaggle comptetion - What's cooking
-   Source: https://www.kaggle.com/c/whats-cooking
-   Description: Recipe classification from ingredients 
-   Tools: multiple
+1. Kaggle comptetion - What's cooking  
+   Source: https://www.kaggle.com/c/whats-cooking  
+   Description: Recipe classification from ingredients  
+   Tools: multiple  
 
 1. Smart Recipe  
    Source: http://pub.tik.ee.ethz.ch/students/2015-FS/BA-2015-15.pdf  
