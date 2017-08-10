@@ -4,6 +4,14 @@ Food Explorer
 ## Datasets:
 
 ### Recipe/Ingredient database
+- Source: 
+- Link As Of 8/10/2017
+- Size archive: 10.4 MB
+- Size file: 34.4 MB
+- Format: JSON
+- Website: https://www.kaggle.com/hugodarwood/epirecipes
+
+### Recipe/Ingredient database - 2
 - Source: http://s3.amazonaws.com/wikia_xml_dumps/c/co/cookbook_import_pages_current.xml.7z
 - Link As Of: 8/7/2017
 - Size archive: 23 MB
@@ -20,6 +28,11 @@ TODO
    
 
 ## References
+
+1. Kaggle comptetion - What's cooking
+   Source: https://www.kaggle.com/c/whats-cooking
+   Description: Recipe classification from ingredients 
+   Tools: multiple
 
 1. Smart Recipe  
    Source: http://pub.tik.ee.ethz.ch/students/2015-FS/BA-2015-15.pdf  
